@@ -1,0 +1,42 @@
+<%@ Import Namespace="WroxPizza.Web.Views.Shared"%>
+<%@ Master Language="C#" AutoEventWireup="true" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link href="../../Content/Site.css" rel="stylesheet" type="text/css" />
+    <script src="../../Scripts/jquery-1.2.6.min.js" type="text/javascript"></script>
+    
+    <asp:ContentPlaceHolder ID="HeaderPlaceholder" runat="server">
+        <title><%= Html.Encode(ViewData["Title"]) %></title>
+    </asp:ContentPlaceHolder>
+    
+</head>
+    <body>
+    <div id="header">
+        <img src="../../Content/Images/logo.png" alt="Wrox Pizza" />
+    </div>
+    <div id="menuLeft"></div>
+    <div id="menu">
+        <ul id="menuItems">
+            <li><%= Html.CreateOrdersLink() %></li>
+            <li><%= Html.CreateProductsMenuLink() %> </li>
+            <li><a href="">Locations</a></li>
+            <li><a href="">About</a></li>
+        </ul>
+    </div>
+    <div id="menuRight"></div>
+    <div id="content">
+		<asp:ContentPlaceHolder ID="MainContent" runat="server" />
+	</div>
+    <div id="Credits">
+        Website Development by 
+        <a target="_blank" href="http://www.mcwherter.net/blog">Jeff McWherter</a> 
+        and 
+        <a target="_blank" href="http://blog.benhall.me.uk">Ben Hall</a>
+        <br />
+        <b>Sample application created for Testing ASP.net Applications</b> | © 2009 <a target="_blank" href="">Wrox Press</a>
+    </div>
+</body>
+</html>

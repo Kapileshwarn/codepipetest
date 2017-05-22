@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jmcwherter_tfw/!svn/ver/152/3-TDD/Chapter%203%20Samples/HelloWorldMVC/HelloWorldMVC.Tests
+END
+AuthoringTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jmcwherter_tfw/!svn/ver/152/3-TDD/Chapter%203%20Samples/HelloWorldMVC/HelloWorldMVC.Tests/AuthoringTests.txt
+END
+HelloWorldMVC.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jmcwherter_tfw/!svn/ver/152/3-TDD/Chapter%203%20Samples/HelloWorldMVC/HelloWorldMVC.Tests/HelloWorldMVC.Tests.csproj
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jmcwherter_tfw/!svn/ver/152/3-TDD/Chapter%203%20Samples/HelloWorldMVC/HelloWorldMVC.Tests/App.config
+END

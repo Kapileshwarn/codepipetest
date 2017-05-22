@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jmcwherter_tfw/!svn/ver/279/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v5/WroxPizzaStore/WroxPizza.Core/Data
+END
+IDbConfigure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jmcwherter_tfw/!svn/ver/279/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v5/WroxPizzaStore/WroxPizza.Core/Data/IDbConfigure.cs
+END
+DefaultNHibernateConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/jmcwherter_tfw/!svn/ver/279/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v5/WroxPizzaStore/WroxPizza.Core/Data/DefaultNHibernateConfig.cs
+END

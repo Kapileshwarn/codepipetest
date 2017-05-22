@@ -1,0 +1,40 @@
+10
+
+dir
+300
+http://jmcwherter.unfuddle.com/svn/jmcwherter_tfw/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v4/WroxPizzaStore
+http://jmcwherter.unfuddle.com/svn/jmcwherter_tfw
+
+
+
+2009-03-16T03:43:48.223431Z
+185
+bhall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46a01065-923b-4787-b41b-56c903d73f73
+
+WroxPizza.Tests.Integration
+dir
+
+WroxPizza.Core
+dir
+
+WroxPizza.Web
+dir
+
+WroxPizza.Tests.Unit
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jmcwherter_tfw/!svn/ver/279/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v7/WroxPizzaStore/WroxPizza.Core/Web/Setup
+END
+Bootstrapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jmcwherter_tfw/!svn/ver/279/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v7/WroxPizzaStore/WroxPizza.Core/Web/Setup/Bootstrapper.cs
+END
+RoutesTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jmcwherter_tfw/!svn/ver/279/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v7/WroxPizzaStore/WroxPizza.Core/Web/Setup/RoutesTable.cs
+END
+StructureMapControllerFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/jmcwherter_tfw/!svn/ver/279/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v7/WroxPizzaStore/WroxPizza.Core/Web/Setup/StructureMapControllerFactory.cs
+END

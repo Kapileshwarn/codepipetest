@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jmcwherter_tfw/!svn/ver/182/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v2/WroxPizzaStore/WroxPizza.Core/Data/Repositories
+END
+IRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/jmcwherter_tfw/!svn/ver/182/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v2/WroxPizzaStore/WroxPizza.Core/Data/Repositories/IRepository.cs
+END
+IProductRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/jmcwherter_tfw/!svn/ver/182/3-TDD/Chapter%203%20Samples/WroxPizzaStore/v2/WroxPizzaStore/WroxPizza.Core/Data/Repositories/IProductRepository.cs
+END

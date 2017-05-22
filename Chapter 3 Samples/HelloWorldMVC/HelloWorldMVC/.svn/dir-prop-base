@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 110
+_ReSharper.HelloWorldMVC
+bin
+obj
+HelloWorldMVC.csproj.user
+HelloWorldMVC.suo
+HelloWorldMVC.4.1.resharper.user
+
+END

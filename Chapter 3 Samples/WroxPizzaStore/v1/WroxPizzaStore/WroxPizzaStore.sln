@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WroxPizza.Core", "WroxPizza.Core\WroxPizza.Core.csproj", "{D90D107A-8BD7-48D5-80CF-66406C81925C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WroxPizza.Tests.Integration", "WroxPizza.Tests.Integration\WroxPizza.Tests.Integration.csproj", "{D8DCC17F-07C5-4F14-A9F0-4F438CF60A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WroxPizza.Tests.Unit", "WroxPizza.Tests.Unit\WroxPizza.Tests.Unit.csproj", "{3C0E7CBC-0131-4FAC-8BFD-28DAE1B7A6E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WroxPizza.Web", "WroxPizza.Web\WroxPizza.Web.csproj", "{19211029-3F30-4768-AEB8-AC16F9004A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D90D107A-8BD7-48D5-80CF-66406C81925C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90D107A-8BD7-48D5-80CF-66406C81925C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90D107A-8BD7-48D5-80CF-66406C81925C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90D107A-8BD7-48D5-80CF-66406C81925C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DCC17F-07C5-4F14-A9F0-4F438CF60A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DCC17F-07C5-4F14-A9F0-4F438CF60A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DCC17F-07C5-4F14-A9F0-4F438CF60A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DCC17F-07C5-4F14-A9F0-4F438CF60A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0E7CBC-0131-4FAC-8BFD-28DAE1B7A6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0E7CBC-0131-4FAC-8BFD-28DAE1B7A6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0E7CBC-0131-4FAC-8BFD-28DAE1B7A6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0E7CBC-0131-4FAC-8BFD-28DAE1B7A6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19211029-3F30-4768-AEB8-AC16F9004A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19211029-3F30-4768-AEB8-AC16F9004A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19211029-3F30-4768-AEB8-AC16F9004A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19211029-3F30-4768-AEB8-AC16F9004A06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
